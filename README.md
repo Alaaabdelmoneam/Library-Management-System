@@ -81,7 +81,3 @@ The system should provide the following core functionalities:
 
 ## Deadline:
 The assignment is due by **[Insert Due Date]**. Late submissions will be penalized unless prior arrangements are made.
-
----
-
-This assignment is intended to help you practice applying the principles of object-oriented design and SOLID principles in a real-world system. It will also improve your ability to write clean, maintainable, and extendable code that can easily adapt to future requirements.
