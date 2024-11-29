@@ -226,9 +226,3 @@ Given an array of integers representing the heights of bars in a histogram, writ
 **Task:**
 - Solve the problem using a **monotonic stack** approach.
 - Analyze the time and space complexity of the solution.
-
----
-
-## Conclusion
-
-These problems cover a broad range of advanced topics in C programming. Each problem is designed to improve your understanding of core concepts like dynamic programming, graph theory, backtracking, and more. By solving these problems, you will enhance your problem-solving skills and prepare for competitive programming challenges.
